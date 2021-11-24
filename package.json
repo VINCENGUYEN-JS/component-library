@@ -1,0 +1,29 @@
+{
+  "name": "@vince-nguyen/component-library",
+  "version": "0.0.0",
+  "description": "Pubshing simple component-library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINCENGUYEN-JS/component-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VINCENGUYEN-JS/component-library/issues"
+  },
+  "homepage": "https://github.com/VINCENGUYEN-JS/component-library#readme",
+  "peerDependencies": {
+    "react": ">=16.12.0",
+    "react-dom": ">=16.12.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.36",
+    "@types/react-dom": "^17.0.11",
+    "typescript": "4.2.2"
+  }
+}
