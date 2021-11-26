@@ -1,2 +1,3 @@
 # component-library
-publishing  simple component-library
+
+publishing simple component-library
