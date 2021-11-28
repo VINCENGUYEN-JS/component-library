@@ -9,6 +9,10 @@ export default {
   component: Button,
 } as Meta;
 
-const Template: Story = (args) => <Button {...args} />;
+const Template: Story = (args) => (
+  <Button {...args} aria-label="Accessbility test">
+    my button
+  </Button>
+);
 
 export const Default = Template.bind({});
