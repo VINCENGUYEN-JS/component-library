@@ -15,7 +15,7 @@ jobs:
       with:
         node-version: '16.x'
         registry-url: 'https://npm.pkg.github.com'
-        scope: '@VINCENGUYEN-JS'
+        scope: '@vincenguyen95'
     - run: npm ci
     - run: npm run lint
     - run: npm run test
